@@ -1,0 +1,10 @@
+* zaws
+
+Amazon Web Service access from Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/xach/zaws.git   |
+| commit  | a13ff49  |
+| systems | zaws |
+|---------+-------------------------------------------|
+
